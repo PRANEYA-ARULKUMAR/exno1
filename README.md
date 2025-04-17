@@ -275,4 +275,4 @@ print(df[z['weight']>3])
 ![Screenshot 2025-03-19 141556](https://github.com/user-attachments/assets/630f5ec4-8916-4a85-ac39-a56a82cde38a)
 
 # Result
-        Thus the data is cleaned and the outliers are removed by detection using IQR and Z-Score.
+Thus the data is cleaned and the outliers are removed by detection using IQR and Z-Score.
